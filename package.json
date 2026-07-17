@@ -14,7 +14,6 @@
     "@react-three/drei": "^10.7.7",
     "@react-three/fiber": "^9.6.1",
     "axios": "^1.17.0",
-    "framer-motion": "^12.40.0",
     "motion": "^12.40.0",
     "react": "^19.2.4",
     "react-3d-card": "^1.0.1",
