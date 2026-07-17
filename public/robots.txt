@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Sitemaps Location Index Link
+Sitemap: https://buycryptowisely.vercel.app/sitemap.xml
